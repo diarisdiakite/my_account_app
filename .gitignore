@@ -38,3 +38,5 @@
 .env
 
 /app/controllers/posts_controller_brouillon.rb
+
+config/master.key.manager

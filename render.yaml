@@ -1,5 +1,5 @@
 databases:
-  - name: my_account_app
+  - name: my_account
     databaseName: my_account_app
     user: my_account_app_user
 
