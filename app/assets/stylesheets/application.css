@@ -2,7 +2,7 @@
  *= require_tree .
  *= require_self
  */
- 
+
 :root {
   --main-blue: #3778c2;
   --main-green: #5fb523;
